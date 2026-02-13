@@ -79,7 +79,7 @@ const CONFIG = {
        enabled: true,                     // Music feature is enabled
        autoplay: true,                    // Try to autoplay (note: some browsers may block this)
        musicUrl: "https://res.cloudinary.com/dgcsyclpn/video/upload/v1770987337/I_Like_You_So_Much_Youll_Know_It_%E6%88%91%E5%A4%9A%E5%96%9C%E6%AC%A2%E4%BD%A0%E4%BD%A0%E4%BC%9A%E7%9F%A5%E9%81%93_-_A_Love_So_Beautiful_OST_-Wang_Junqi_English_Cover_fvjwuq.mp3", // Music streaming URL
-       startText: "🎵 Play Music",        // Button text to start music
+       startText: "🎵 Play the Music pleasee",        // Button text to start music
       stopText: "🔇 Stop Music",         // Button text to stop music
        volume: 0.5                        // Volume level (0.0 to 1.0)
     }
