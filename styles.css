@@ -293,7 +293,6 @@ h2 {
     100% { opacity: 0.3; }
 }
 
-
 .music-controls {
     position: fixed;
     top: 20px;
@@ -317,4 +316,3 @@ h2 {
     transform: scale(1.05);
     background: var(--secondary-color);
 } 
-
